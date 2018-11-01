@@ -1,0 +1,4 @@
+dailyreward.config.enable.message=消息提醒
+dailyreward.config.enable.network=网络检测
+dailyreward.customization=自定义
+dailyreward.notification=消息
