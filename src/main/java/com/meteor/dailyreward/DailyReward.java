@@ -21,6 +21,7 @@ import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
 @Mod(modid = LibMisc.MOD_ID, 
 	name = LibMisc.MOD_ID, 
 	version = "1", 
+	acceptableRemoteVersions = "*", 
 	guiFactory = "com.meteor.dailyreward.config.ConfigGuiFactory")
 public class DailyReward {
 	
